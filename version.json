@@ -1,9 +1,9 @@
 {
   "version": "2.0.0",
-  "buildDate": "2026-09-14T05:04:25Z",
+  "buildDate": "2026-09-14T05:06:45Z",
   "installUrl": "https://taqa-transmission.github.io/oneservices-dist/install.html",
   "ios": {
-    "url": "https://github.com/TAQA-Transmission/oneservices-dist/releases/download/v9.9.9/OneServices.ipa",
+    "url": "https://taqa-transmission.github.io/oneservices-dist/ios/OneServices.ipa",
     "manifest": "https://taqa-transmission.github.io/oneservices-dist/ios/manifest.plist",
     "bundleId": "oneservices.taqatransmission.app"
   },
