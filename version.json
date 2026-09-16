@@ -1,6 +1,6 @@
 {
-  "version": "2.6.0",
-  "buildDate": "2026-09-16T07:55:13Z",
+  "version": "2.7.0",
+  "buildDate": "2026-09-16T08:09:32Z",
   "installUrl": "https://taqa-transmission.github.io/oneservices-dist/install.html",
   "ios": {
     "url": "https://taqa-transmission.github.io/oneservices-dist/ios/OneServices.ipa",
